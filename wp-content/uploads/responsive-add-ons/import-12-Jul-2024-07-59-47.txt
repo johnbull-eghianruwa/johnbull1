@@ -1,0 +1,148 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 20:01:56 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 20:25:20 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 09:28:10 UTC
+---
+
+Deleted customizer Settings {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call To Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call To Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Deleted - Site Options []
+Inserted WP Form 62
+Importing from XML https://ccreadysites.cyberchimps.com/wp-content/uploads/sites/12/wxr.xml
+Inserted - Term 3 - {"term_id":3,"name":"Uncategorized","slug":"uncategorized","term_group":0,"term_taxonomy_id":3,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Menu1","slug":"menu1","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 64 - page - Sample Page
+Inserted - Post 8 - page - Privacy Policy
+Inserted - Post 65 - page - Home
+Inserted - Post 66 - page - About
+Inserted - Post 71 - page - Contact
+Inserted - Post 77 - post - Hairstyles You Must Try This Year
+Inserted - Post 78 - page - Blog
+Inserted - Post 79 - nav_menu_item - 
+Inserted - Post 80 - nav_menu_item - 
+Inserted - Post 93 - post - Read This Before You Trim Your Beard
+Inserted - Post 94 - post - Trending Hairdo For Kids
+Inserted - Post 95 - nav_menu_item - 
+Inserted - Post 96 - nav_menu_item - 
+Inserted - Post 104 - attachment - bs-haircut
+Inserted - Post 105 - attachment - bs-beard-trim
+Inserted - Post 106 - attachment - bs-hair-style
+Inserted - Post 111 - attachment - barber-testi
+Inserted - Post 112 - attachment - barber-icon4
+Inserted - Post 113 - attachment - barber-icon3
+Inserted - Post 114 - attachment - barber-icon2
+Inserted - Post 115 - attachment - barber-icon1
+Inserted - Post 116 - attachment - barber_02
+Inserted - Post 117 - attachment - barber_04
+Inserted - Post 118 - attachment - barber_07
+Inserted - Post 119 - attachment - barber_10
+Inserted - Post 120 - attachment - logo-white
+Inserted - Post 121 - attachment - logo
+Inserted - Post 137 - attachment - About
+Inserted - Post 367 - elementor_library - Default Kit
+Imported Customizer Settings {"theme_mods_responsive":{"0":false,"nav_menu_locations":{"header-menu":2},"custom_css_post_id":-1,"custom_logo":121,"res_hide_site_title":"1","res_hide_tagline":"1","body_typography":{"font-family":"'Montserrat', sans-serif","font-size":"14px","line-height":"1.4","color":"#000000","font-weight":"400"},"headings_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"},"input-background-color":"rgba(255,255,255,0)","button-color":"#c29e75","responsive_blog_entry_elements_positioning":["featured_image","title","meta","content"],"responsive_blog_entry_meta":["author","date","categories","comments"],"background_color":"ffffff","responsive_main_container_width":"1140","responsive_sidebar_background_color":"#f9f6ef","link-color":"#895826","link-hover-color":"#542c00","responsive_sidebar_radius":"0","button-hover-color":"#a88864","responsive_button_border_radius":"0","input-border-color":"#999999","input-border-color-focus":"#999999","responsive_fullwidth_header_color":"#ffffff","responsive_menu_active_colorpicker":"#ffffff","responsive_menu_item_hover_colorpicker":"#ffffff","header_layout_options":"header-logo-left","responsive_menu_background_colorpicker":"#ffffff","responsive_menu_text_colorpicker":"#000000","responsive_menu_text_hover_colorpicker":"#c29e75","responsive_menu_border_color":"#ffffff","responsive_menu_background_colorpicker_2":"#ffffff","responsive_menu_active_text_colorpicker":"#c29e75","responsive_mobile_header_breakpoint":"768","menu_typography":{"font-weight":"500","font-size":"16px"},"responsive_container_left_padding":"30","responsive_container_right_padding":"30","responsive_container_tablet_right_padding":"20","responsive_container_tablet_left_padding":"20","responsive_container_mobile_right_padding":"10","responsive_container_mobile_left_padding":"10","menu_dropdown_typography":{"font-size":"15px"},"blog_layout_option":"fullwidth-content","single_layout_option":"fullwidth-content","page_layout_option":"fullwidth-content","responsive_container_background_color":"#f9f6ef","responsive_blog_entries_top_padding":"0","responsive_blog_entries_left_padding":"20","responsive_blog_entries_bottom_padding":"20","responsive_blog_entries_right_padding":"20","responsive_single_post_background_color":"#f9f6ef","responsive_hide_tagline":"1","responsive_hide_title":"1","responsive_button_color":"#c29e75","responsive_button_hover_color":"#a88864","responsive_inputs_background_color":"rgba(255,255,255,0)","responsive_inputs_border_color":"#999999","responsive_header_menu_background_color":"#ffffff","responsive_header_active_menu_background_color":"#ffffff","responsive_header_menu_toggle_color":"#000000","responsive_header_menu_link_color":"#000000","responsive_header_menu_border_color":"#ffffff","responsive_header_menu_link_hover_color":"#c29e75","responsive_header_background_color":"#ffffff","responsive_header_border_color":"#eaeaea","responsive_header_sub_menu_background_color":"#ffffff","responsive_header_sub_menu_link_color":"#000000","responsive_header_sub_menu_link_hover_color":"#c29e75","responsive_box_background_color":"#f9f6ef","responsive_link_color":"#895826","responsive_link_hover_color":"#542c00","responsive_header_alignment":"left","responsive_container_width":"1140","responsive_body_text_color":"#000000","header_menu_typography":{"font-weight":"500","font-size":"16px"},"heading_h1_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"},"heading_h2_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"},"heading_h3_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"},"heading_h4_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"},"heading_h5_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"},"heading_h6_typography":{"font-family":"'Playfair Display SC', serif","line-height":"1.2","color":"#895826"}},"responsive_settings":{"featured_images":0,"breadcrumb":1,"cta_button":0,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"fullwidth-content","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":false,"sticky-header":false,"googleplus_uid":"","stumbleupon_uid":"","copyright_textbox":"CyberChimps Inc. All Rights Reserved"},"custom_css":""}
+Old Responsive Theme Options {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call To Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call To Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Backup - Responsive Theme Mods {"0":false,"nav_menu_locations":[],"responsive_container_width":1140,"custom_css_post_id":-1,"sidebars_widgets":{"time":1721035699,"data":{"wp_inactive_widgets":[],"main-sidebar":["block-2","block-3","block-4","block-5","block-6"],"home-widget-1":[],"home-widget-2":[],"home-widget-3":[],"gallery-widget":[],"colophon-widget":[],"header-widgets":[],"footer-widget-1":[],"footer-widget-2":[],"footer-widget-3":[],"footer-widget-4":[]}}}
+Imported - Widgets {"main-sidebar":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0}}}
+Imported - Site Options {"custom_logo":121,"show_on_front":"page","page_on_front":"Home","page_for_posts":"Blog","nav_menu_locations":false,"wpforms_settings":{"modern-markup":"0","modern-markup-is-set":true},"elementor_container_width":"1140","elementor_cpt_support":["post","page"],"elementor_css_print_method":"internal","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":false,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":""}
+Complete 
+Batch Process Started!
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----

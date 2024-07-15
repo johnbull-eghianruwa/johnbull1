@@ -1,0 +1,399 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 18:55:52 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 18:59:14 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:11:19 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:16:57 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:16:57 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:17:15 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:17:23 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:17:36 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:17:58 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:18:07 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:22:59 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:23:03 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:23:13 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:23:16 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:23:25 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:23:28 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:23:29 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:43:10 UTC
+---
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2433win64openssl102umod_fcgid239php831
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 8.3.1
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/London
+
+-----
+
+Importing Started! - 19:45:07 UTC
+---
